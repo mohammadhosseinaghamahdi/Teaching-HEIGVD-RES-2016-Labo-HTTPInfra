@@ -1,0 +1,14 @@
+{
+  "name": "hapi-image-client-server",
+  "version": "1.0.0",
+  "description": "c'est un client serveur en http en utilisant image hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AGHAMAHDI Mohammad Hossein",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  }
+}

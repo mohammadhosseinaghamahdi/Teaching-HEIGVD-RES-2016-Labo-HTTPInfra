@@ -1,0 +1,19 @@
+{
+  "name": "students",
+  "version": "0.1.0",
+  "description": "Just for a demo",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AGHAMAHDI Mohammad Hossein",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Just for a demo"
+  },
+  "dependencies": {
+    "chance": "^1.0.3",
+    "express": "^4.13.4"
+  }
+}

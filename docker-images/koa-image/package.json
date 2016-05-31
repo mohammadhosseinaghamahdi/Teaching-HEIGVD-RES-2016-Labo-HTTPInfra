@@ -1,0 +1,17 @@
+{
+  "name": "koa-image",
+  "version": "1.0.0",
+  "description": "client server by koa",
+  "main": "index.js",
+  "dependencies": {
+    "chance": "^1.0.3",
+    "koa": "^1.2.0",
+    "koa-json": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AGHAMAHDI Mohammad Hossein",
+  "license": "ISC"
+}
