@@ -6,7 +6,9 @@ app.use(json());
 
 app.use(function *(next){
   
-  this.body = { 'un nombre aleatoire': getRandomNumber() + ' (entre 1 et 10)' };
+  this.body = { randomNumber : '' + getRandomNumber(),
+				lowerBound : "1" ,
+				UpperBound : "10"};
 });
 console.log("listen by port 3000");
 app.listen(3000);
