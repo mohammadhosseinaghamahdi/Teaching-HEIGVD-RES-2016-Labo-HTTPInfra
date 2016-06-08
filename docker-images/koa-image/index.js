@@ -8,7 +8,7 @@ app.use(function *(next){
   
   this.body = { randomNumber : '' + getRandomNumber(),
 				lowerBound : "1" ,
-				UpperBound : "10"};
+				upperBound : "10"};
 });
 console.log("listen by port 3000");
 app.listen(3000);
